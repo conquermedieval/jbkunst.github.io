@@ -17,7 +17,7 @@
     "Olá pessoal!",
     "Eu sou [PM]TiM[GM]",
     "Nosso servidor possue muitas novidades",
-    "Guilg War finaliza aos Sábados ás 21:00 Hrs",
+    "Guild War finaliza aos Sábados ás 21:00 Hrs",
     "Drop de Cps em todos os mapas",
     "Sistema VIP",
     "Eventos diários e automáticos",
