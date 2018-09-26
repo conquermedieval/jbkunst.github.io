@@ -1,18 +1,18 @@
-title: Jkunst
-tagline: R, Data & Code
+title: Conquer medieval
+tagline: Conquer versão 5095
 
 author:
-  name: Joshua Kunst
-  email: jbkunst@gmail.com
-  twitter: jbkunst
-  github: jbkunst
+  name: Conquer medieval
+  email: nilsonlinux@gmail.com
+  twitter: nilsonlinux
+  github: nilsonlinux
   
 include: ['_pages']
   
 layout: post
 permalink: /:categories/:title/
 
-url: http://jkunst.com
+url: http://conquermedieval.github.io
 
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
