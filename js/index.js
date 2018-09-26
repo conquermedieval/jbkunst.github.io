@@ -25,7 +25,7 @@
     "Sala exclusiva para VIP,s e TOP",
     "Vença 3 GW's conssecultivas e ganhe uma PRIZE",
     "Aos domingos teremos eventos com GM' PM com premiações",
-    "ENtão é isso. Boa diversão e espero que goste de nosso servidor ;)!",
+    "Então é isso. Boa diversão e espero que goste de nosso servidor ;)!",
     ""
     ];
   
