@@ -14,18 +14,18 @@
   }
   
   data = [
-    "Hello!",
-    "I'm Joshua Kunst",
-    "I'm a #bug #coder",
-    "I'm a data lover",
-    "I'm a data wrangler",
-    "I'm a data explorer",
-    "I'm a data asdf... :B",
-    "I <3 my familiy",
-    "I <3 code",
-    "I <3 visualizations",
-    "I <3 R",
-    "Thanks for your visit ;)!",
+    "Olá pessoal!",
+    "Eu sou [PM]TiM[GM]",
+    "Nosso servidor possue muitas novidades",
+    "Guilg War finaliza aos Sábados",
+    "Drop de Cps",
+    "Sistema VIP",
+    "Eventos diários e automáticos",
+    "Nosso código é limpo e sem bugs",
+    "Sala exclusiva para VIP,s e TOP",
+    "Vença 3 GW's conssecultivas e ganhe uma PRIZE",
+    "Aos domingos teremos eventos com GM' PM com premiações",
+    "ENtão é isso. Boa diversão e espero que goste de nosso servidor ;)!",
     ""
     ];
   
