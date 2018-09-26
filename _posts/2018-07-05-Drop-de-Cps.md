@@ -1,11 +1,11 @@
 ---
-title: "Thematic Interactive Map"
-author: "Joshua Kunst"
+title: "Drop de Cps aumentada"
+author: "[GM]TiM[PM]"
 output:
  html_document:
    toc: true
    keep_md: yes
-categories: R
+categories: Conquer points
 layout: post
 featured_image: /images/featured-image/thematic-interactive-map.gif
 ---
